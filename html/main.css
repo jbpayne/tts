@@ -1,0 +1,97 @@
+a{
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  color: white;
+  background-color: red;
+  padding-left: 1.6em;
+  border-radius: 0.2em;
+}
+
+h1 a {
+  color: white;
+}
+
+#body {
+  background-color: #ccc;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Questrial', sans-serif;
+  padding: 0.5em;
+}
+
+.big {
+  font-size: 1.6em;
+  position: relative;
+  top: 6px;
+}
+
+.img {
+  border-radius: 0.5em;
+  min-width: 10em;
+  min-height: 10em;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 1em;
+}
+
+.square {
+  flex: 1;
+  padding: 1em;
+}
+
+.txt {
+  padding-top: 0;
+}
+
+.square a {
+  color: #0073bb;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+#main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#navbar {
+  flex: 2;
+  min-width: 27em;
+  min-height: 30em;
+  border-radius: 8px;
+  margin-right: 0.6em;
+  background-color: #eee;
+}
+
+#map {
+  height: auto;
+  width: auto;
+  min-height: 150px;
+  min-width: 150px;
+  padding: 2em;
+  border-radius: 8px;
+  background-position: center;
+  background-position-y: 15px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  flex: 3;
+}
+
+.square { 
+  transition: all .2s ease-in-out; 
+}
+
+.square:hover { 
+  transform: scale(1.05); 
+}

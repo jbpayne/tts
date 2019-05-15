@@ -1,0 +1,13 @@
+{                                                                                       
+  "id": "5",                                                           
+  "name": "The Blind Pig Pizza",                                                   
+  "address": "89 Arch St",                                  
+  "phone": "(860) 744-4333",                                                                
+  "website": "https://www.blindpigpizza.com/",           
+  "hours": "Sunday - Wednesday: 11AM - 9PM, Thursday - Saturday: 11AM-10PM",                                                        
+  "lat": "41.7617504",                                                                
+  "long": "-72.6706733",                                                              
+  "notes": [                                                                          
+    "Trendy pizzeria offering inventive pies, including BBQ options, paired with cocktails & wine."                         
+  ]
+}                                                                             

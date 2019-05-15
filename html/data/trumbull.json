@@ -1,0 +1,13 @@
+{                                                                                       
+  "id": "3",                                                           
+  "name": "Trumbull Kitchen",                                                   
+  "address": "150 Trumbull St",                                  
+  "phone": "(860) 493-7412",                                                                
+  "website": "https://www.maxrestaurantgroup.com/trumbull/",           
+  "hours": "M-w: 11:30AM-11PM, Th-F: 11:30AM-Midnight, Sat: Noon-Midnight, Sun: 4PM-10PM",                                                        
+  "lat": "41.7667208",                                                                
+  "long": "-72.6754406",                                                              
+  "notes": [                                                                          
+    "Seafood headlines the eclectic menu at this casual, industrial-chic eatery with a lively bar scene."                         
+  ]
+}                                                                             

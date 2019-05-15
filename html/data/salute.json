@@ -1,0 +1,13 @@
+{                                                                                       
+  "id": "1",                                                           
+  "name": "Salute",                                                   
+  "address": "100 Trumbull St",                                  
+  "phone": "(860) 899-1350",                                                                
+  "website": "https://salutehartford.com/",           
+  "hours": "Monday - Saturday: 11:30AM - Midnight, Saturday: 4PM - Midnight",                                                        
+  "lat": "41.7654452",                                                                
+  "long": "-72.6761025",                                                              
+  "notes": [                                                                          
+    "Trendy Italian restaurant with an upscale menu of pastas (gluten-free available) & grilled dishes."                         
+  ]
+}                                                                             

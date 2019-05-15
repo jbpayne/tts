@@ -1,0 +1,13 @@
+{                                                                                       
+  "id": "2",                                                           
+  "name": "Bear’s Smokehouse Barbecue",                                                   
+  "address": "25 Front St",                                  
+  "phone": "(860) 785-8772",                                                                
+  "website": "https://www.bearsbbq.com/",           
+  "hours": "Sunday - Wednesday: 11AM - 9PM, Thursday - Saturday: 11AM-10PM",                                                        
+  "lat": "41.7626324",                                                                
+  "long": "-72.6713744",                                                              
+  "notes": [                                                                          
+    "Local BBQ chain serving smoked-meat entrees & sandwiches, plus comfort sides, in a casual setting."                         
+  ]
+}                                                                             

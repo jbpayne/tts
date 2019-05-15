@@ -1,0 +1,13 @@
+{                                                                                       
+  "id": "4",                                                           
+  "name": "Firebox Restaurant",                                                   
+  "address": "539 Broad St",                                  
+  "phone": "(860) 246-1222",                                                                
+  "website": "https://www.fireboxrestaurant.com/",           
+  "hours": "Tuesday - Friday: 11:30AM - 10PM, Saturday: 5:30PM - 10PM, Sunday: 11AM-2PM, 4:30PM - 8:30PM, Monday: Closed",                                                        
+  "lat": "41.7621984",                                                                
+  "long": "-72.6870225",                                                              
+  "notes": [                                                                          
+    "Upscale-casual spot in a renovated forge offers a farm-to-table New American menu."                         
+  ]
+}                                                                             
