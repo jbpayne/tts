@@ -26,9 +26,9 @@ const playRound = (obj1, obj2) => {
 
 const playGame = (player1,player2,playUntil) => {
   const rounds = [0, 0];
-  let round = 1;
+  let round = 0;
   while (!rounds.includes(3)) {
-    console.log(`Round ${round++}:\n`);
+    console.log(`Round ${++round}:\n`);
     const winner = (playRound(player1,player2));
     winner === null ? null : 
     winner === player1.name ? rounds[0]++ : 
